@@ -29,7 +29,7 @@ img {
     width: 70%;
     height: auto;
     padding: 10px;
-    margin: auto; 
+    margin: auto;
 }
 
 .superior {
@@ -59,7 +59,8 @@ img {
 .texto {
     position: relative;
     width: 100vw;
-    height: 50vh; /* Ajuste a altura conforme necessário para acomodar a imagem e o texto */
+    height: 50vh;
+    /* Ajuste a altura conforme necessário para acomodar a imagem e o texto */
     display: flex;
     align-items: center;
     justify-content: center;
@@ -74,8 +75,4 @@ p {
     width: 40%;
     text-align: center;
     bottom: 25%;
-}
-
-@media screen {
-    
 }
